@@ -1,2 +1,2 @@
-# introduction_to_github
+# Introduction_to_github
 Test repository for introductory github
